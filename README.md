@@ -18,20 +18,21 @@ For more information, view the [first time git setup](https://git-scm.com/book/e
 
 (https://git-scm.com/docs/git-config)
 
-- [git commit](./commands/Commit.md)
+- [git commit](./Commands/Commit.md)
 
-- [git init](./commands/Init.md)
+- [git init](./Commands/Init.md)
 
-- [git Config](./commands/Config.md)
+- [git Config](./Commands/Config.md)
 
-- [git add](./commands/Add.md)
+- [git add](./Commands/Add.md)
 
 - [git Remote](./Commands/Remote.md)
 
-- [git push](./commands/Push.md)
-- [git pull](./commands/Pull.md)
+- [git push](./Commands/Push.md)
 
-- [git status](./commands/Status.md)
+- [git pull](./Commands/Pull.md)
+
+- [git status](./Commands/Status.md)
 
 - [git clone](./Commands/Clone.md)
 
